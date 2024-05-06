@@ -3,7 +3,7 @@
 Welcome to the AdventureWorks Visualization Project! This project involves using the AdventureWorks dataset to create various insightful visualizations in Power BI. The project encompasses data preprocessing, data modeling, and the creation of interactive dashboards for key business metrics. Below, you'll find a comprehensive overview of the project's structure, processes, and key components.
 
 Interact with Dashboards here
-
+https://github.com/AnushcaJoshi/AdventureWorks_Viz/blob/main/AdventureWorks_Viz.pbix
 
 ## Table of Contents
 1. [Introduction](#introduction)
