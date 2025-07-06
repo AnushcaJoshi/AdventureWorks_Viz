@@ -95,4 +95,4 @@ To support the visualizations and dashboards, DAX measures and calculations were
 The project effectively demonstrates how the AdventureWorks dataset can be used to generate meaningful insights through Power BI visualizations. By understanding customer behavior, product performance, and manufacturing processes, businesses can make informed decisions and optimize operations.
 ---
 
-Thank you for reviewing the AdventureWorks Visualization Project! Please don't hesitate to reach out if you have any questions or feedback.
+Thank you for reviewing the AdventureWorks Visualization Project! Please don't hesitate to reach out if you have any questions or feedback..
